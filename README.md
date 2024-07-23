@@ -33,3 +33,7 @@ This project sets up a data ingestion pipeline that uses Apache Kafka for stream
 
 3. **Snowflake**:
    - Stores the data ingested from Spark.
+  
+## License
+
+This project is licensed under the [MIT License](LICENSE).
